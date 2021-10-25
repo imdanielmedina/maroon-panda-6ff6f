@@ -26,7 +26,7 @@ sections:
       - image: /images/canva-logo-0-1536x1536-1 (2).jpg
         image_alt: Logo 1
         image_align: center
-      - image: /images/Logo-filmora-FINAL.png
+      - image: /images/Logo-filmora-FINAL (1).jpg
         image_alt: Logo 2
         image_align: center
       - image: images/logo-3.svg
