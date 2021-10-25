@@ -96,11 +96,9 @@ sections:
     subtitle: Distribution
     grid_items:
       - content: |
+          Relevant articles or Tweets to drive traffic to the website.
 
-
-          Relevant articles to drive traffic to the website.
-
-          ***Blog***
+          ***Blog, Twitter***
         image: /images/skills (5).png
         image_position: left
         image_width: twenty-five
