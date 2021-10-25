@@ -77,10 +77,11 @@ sections:
         media_position: right
         media_width: sixty
       - title: Others skills
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >+
+          I have skills such as copywriting, storytelling, content timing,
+          security in social networks, ability to resolve issues or crises, and
+          knowledge of consumer psychology
+
         actions: []
         image: images/feature-3.svg
         image_alt: Feature 3 illustration
