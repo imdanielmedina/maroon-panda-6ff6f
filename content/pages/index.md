@@ -113,11 +113,11 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          The social network of the moment is the best to share valuable
+          The social networks of the moment, are the best to share valuable
           content.
 
 
-          **Instagram**
+          **Instagram, Tiktok**
         image: /images/3b21c7efd2ba9c119fb8d361acacc31d.png
         image_position: left
         image_width: twenty-five
