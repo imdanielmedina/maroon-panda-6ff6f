@@ -93,7 +93,7 @@ sections:
     background_color: none
   - type: grid_section
     title: channels
-    subtitle: What My Clients Say
+    subtitle: Distribution
     grid_items:
       - content: |
 
