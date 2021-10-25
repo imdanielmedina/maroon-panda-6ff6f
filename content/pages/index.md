@@ -32,7 +32,7 @@ sections:
       - image: /images/capcut-logo (2).jpg
         image_alt: Logo 3
         image_align: center
-      - image: /images/picsart-logo.png
+      - image: /images/picsart-logo.jpg
         image_alt: Logo 4
         image_align: center
       - image: images/logo-5.svg
