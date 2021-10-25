@@ -123,12 +123,13 @@ sections:
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+      - content: >
+          Facebook Ads and Google Ads are important for the development of any
+          outbound digital marketing strategy.
 
 
-          **Gordon Norman,** *Web Designer, Local Business*
+
+          ***ADS***
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
