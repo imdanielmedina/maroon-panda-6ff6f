@@ -111,7 +111,7 @@ sections:
 
 
           **Facebook Page**
-        image: images/miles-tone.png
+        image: /images/145802.png
         image_position: left
         image_width: twenty-five
       - content: >
