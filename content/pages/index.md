@@ -58,13 +58,7 @@ sections:
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
           case studies and product descriptions. No job is too big or small!
-        actions:
-          - label: See Writing Samples
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-1.svg
         image_alt: Feature 1 illustration
         media_position: right
