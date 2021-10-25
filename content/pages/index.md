@@ -20,7 +20,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Trusted by Companies Big and Small
-    subtitle: Who I work with
+    subtitle: I know use
     align: center
     grid_items:
       - image: images/logo-1.svg
