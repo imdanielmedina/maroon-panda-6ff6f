@@ -72,7 +72,7 @@ sections:
           publication of effective content
 
         actions: []
-        image: images/feature-2.svg
+        image: /images/Diseño sin título (1).png
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
