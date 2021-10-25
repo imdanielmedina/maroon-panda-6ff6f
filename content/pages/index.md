@@ -19,7 +19,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
-    title: the next tools
+    title: the next graphic tools
     subtitle: I know use
     align: center
     grid_items:
