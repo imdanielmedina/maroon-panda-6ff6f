@@ -50,7 +50,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: My services
-    subtitle: What I do
+    subtitle: I can do
     features:
       - title: Planning and Strategy
         subtitle: 'Marketing funnel, content calendar and channel planning'
