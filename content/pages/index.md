@@ -101,7 +101,7 @@ sections:
           Relevant articles to drive traffic to the website.
 
           ***Blog***
-        image: /images/skills (2).png
+        image: /images/skills (3).png
         image_position: left
         image_width: twenty-five
       - content: >
