@@ -53,7 +53,7 @@ sections:
     subtitle: What I do
     features:
       - title: Planning and Strategy
-        subtitle: 'Marketing funnel, content calendar and channel planing'
+        subtitle: 'Marketing funnel, content calendar and channel planning'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
