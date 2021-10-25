@@ -28,9 +28,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-```
-```
-
 I am a Colombian citizen, I have been preparing for the last 20 years to present something interesting to you at this moment in which you are reading about me, so I have come to the conclusion that I am "a student of everything", the openness The unlimited knowledge that the internet has given us is simply incredible and I sincerely think that it is important to take advantage of all this information to learn it and use it focused on what we are passionate about.
 
 ## Credentials
