@@ -120,7 +120,7 @@ sections:
 
 
           **Instagram**
-        image: images/eleanor-carr.png
+        image: /images/3b21c7efd2ba9c119fb8d361acacc31d.png
         image_position: left
         image_width: twenty-five
       - content: >
