@@ -23,7 +23,7 @@ sections:
     subtitle: I know use
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/canva-logo-0-1536x1536-1.png
         image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
