@@ -130,7 +130,7 @@ sections:
 
 
           ***ADS***
-        image: images/gordon-norman.png
+        image: /images/250px-Google_Ads_logo.svg.png
         image_position: left
         image_width: twenty-five
     grid_cols: two
