@@ -96,6 +96,8 @@ sections:
     subtitle: What My Clients Say
     grid_items:
       - content: |
+
+
           Relevant articles to drive traffic to the website.
 
           ***Blog***
