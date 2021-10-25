@@ -66,10 +66,11 @@ sections:
         media_width: sixty
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >+
+          I have the ability to create images, videos, infographics,
+          illustrations and all the visual elements that are necessary for the
+          publication of effective content
+
         actions: []
         image: images/feature-2.svg
         image_alt: Feature 2 illustration
