@@ -29,7 +29,7 @@ sections:
       - image: /images/Logo-filmora-FINAL (1).jpg
         image_alt: Logo 2
         image_align: center
-      - image: /images/capcut-logo.jpg
+      - image: /images/capcut-logo (1).jpg
         image_alt: Logo 3
         image_align: center
       - image: images/logo-4.svg
