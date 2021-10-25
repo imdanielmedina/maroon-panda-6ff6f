@@ -40,7 +40,7 @@ sections:
       - image: /images/adobe-photoshop-course-png-logo-16 (1).jpg
         image_alt: Logo 6
         image_align: center
-      - image: /images/download (1).jpg
+      - image: /images/download (1) (1).jpg
         image_alt: Logo 7
         image_align: center
       - image_alt: Logo 8
