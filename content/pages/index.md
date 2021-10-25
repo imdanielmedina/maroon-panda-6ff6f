@@ -77,7 +77,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: Others skills
-        subtitle: 'Too, i can do...'
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
