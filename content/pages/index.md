@@ -83,7 +83,7 @@ sections:
           knowledge of consumer psychology
 
         actions: []
-        image: images/feature-3.svg
+        image: /images/skills.png
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
