@@ -60,7 +60,7 @@ sections:
           and outbound marketing
 
         actions: []
-        image: images/feature-1.svg
+        image: /images/Diseño sin título.png
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
