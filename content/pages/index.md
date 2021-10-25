@@ -40,7 +40,7 @@ sections:
       - image: /images/adobe-photoshop-course-png-logo-16 (1).jpg
         image_alt: Logo 6
         image_align: center
-      - image: /images/Microsoft_Office_logos_(2013-2019).svg.jpg
+      - image: /images/Microsoft_Office_logos_(2013-2019).svg (1).jpg
         image_alt: Logo 7
         image_align: center
       - image_alt: Logo 8
