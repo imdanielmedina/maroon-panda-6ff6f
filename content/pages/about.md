@@ -28,8 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
-![A woman using a laptop](/images/about.jpg)
+![](/images/tel.jpg)
 
 The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
 
@@ -38,8 +37,6 @@ The only thing I love more than writing is the process of meeting a new client a
 I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
 
 My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
-
-
 
 ## Writing for Action
 
