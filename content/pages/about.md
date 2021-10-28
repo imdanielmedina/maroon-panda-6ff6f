@@ -25,7 +25,7 @@ I am a Colombian citizen, I have been preparing for the last 20 years to present
 
 ## **Credentials**
 
-I have passed 4 levels of English at SENA and I am currently studying at Platzi English Academy, in addition, I am a technician in Business Consulting graduated from SENA, I am about to finish my degree in Psychology at Universidad Santo Tomás, I am a Theology student at the Seminario Bíblico Asambleas de Dios and finally I am studying the Digital Marketing school in Platzi
+I have passed 4 levels of English at SENA and I am currently studying at Platzi English Academy, in addition, I am a technician in Business Consulting graduated from SENA, I am about to finish my degree in Psychology at Universidad Santo Tomás, I am a Theology student at the Seminario Bíblico Asambleas de Dios and finally I am studying the Digital Marketing school in Platzi.
 
 ## **My Social Networks**
 
