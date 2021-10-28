@@ -5,7 +5,7 @@ seo:
   description: This is the about page
   extra:
     - name: 'og:type'
-      value: website
+      value: 'https://bio.link/imdanielmedina'
       keyName: property
     - name: 'og:title'
       value: My Social Networks
