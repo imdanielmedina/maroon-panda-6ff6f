@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import { Layout } from '../components/index';
 import { markdownify } from '../utils';
-import { markdownify } from '../utils';
+import { markdownify2 } from '../utils';
 
 export default class Page extends React.Component {
     render() {
