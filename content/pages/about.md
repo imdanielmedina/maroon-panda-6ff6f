@@ -7,9 +7,6 @@ seo:
     - name: 'og:type'
       value: 'https://bio.link/imdanielmedina'
       keyName: property
-    - name: 'og:title'
-      value: My Social Networks
-      keyName: property
     - name: 'og:image'
       value: images/about.jpg
       keyName: property
