@@ -4,9 +4,6 @@ seo:
   title: About
   description: This is the about page
   extra:
-    - name: 'og:type'
-      value: 'https://bio.link/imdanielmedina'
-      keyName: property
     - name: 'og:image'
       value: images/about.jpg
       keyName: property
