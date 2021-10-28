@@ -19,7 +19,7 @@ export default class Page extends React.Component {
                     <div className="container container--medium">
                         {title && <header className="page__header"><h1 className="page__title">{title}</h1></header>}
                         {markdownContent && <div className="page__body text-block">{markdownify(markdownContent)}</div>}
-                        {markdownContent && <div className="page__body text-block">{markdownify(markdownContent)}</div>}
+                        {markdownContent2 && <div className="page__body text-block">{markdownify(markdownContent)}</div>}
                     </div>
                 </article>
             </Layout>
