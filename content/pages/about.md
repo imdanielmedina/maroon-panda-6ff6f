@@ -10,9 +10,6 @@ seo:
     - name: 'og:title'
       value: My Social Networks
       keyName: property
-    - name: 'og:description'
-      value: This is the about page
-      keyName: property
     - name: 'og:image'
       value: images/about.jpg
       keyName: property
